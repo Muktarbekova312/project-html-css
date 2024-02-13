@@ -1,0 +1,25 @@
+/* 
+@media screen and (min-width:1024px){
+    .ul {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+    nav {
+        display: none;
+    }
+    .ul li{
+        color: #fff;
+    }
+} */
+/* @media (max-width:1000px) {
+    .container{
+        max-width: 980px;
+    }
+    .pakko_container img{
+        max-width: 980px;
+    }
+    .monitoring{
+        flex-direction: column;
+    }
+} */

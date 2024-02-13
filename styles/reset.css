@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@500&family=Inter:wght@400;600;700&family=Libre+Franklin:wght@300&family=Mulish&family=Open+Sans:ital,wght@0,400;0,800;1,700&family=Pacifico&family=Poppins:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 95%;
+    margin: auto;
+    font-family: 'Inter';
+}
+body,html,h1,h2,h3,h4,h5,a,p{
+    border: 0;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
